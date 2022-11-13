@@ -1,6 +1,7 @@
 # ECML_VQRIM
-Implementation of Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization
-
+Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization
+Zheng Chen, Lingwei Zhu, Ziwei Yang, and Takashi Matsubara
+Paper link: https://arxiv.org/abs/2206.10801
 
 
 
