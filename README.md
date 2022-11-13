@@ -19,7 +19,7 @@ Paper link: https://arxiv.org/abs/2206.10801
 If you find our work relevant to your research, please cite:
 
     @inproceedings{VQRIMECML22,
-	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+	author  = {Chen, Zheng and Zhu, Lingwei and Yang, Ziwei and Takashi, Matsubara},
 	year    = {2022},
   	title   = {Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization},
   	booktitle={Machine Learning and Knowledge Discovery in Databases, {ECML-PKDD}}, 
