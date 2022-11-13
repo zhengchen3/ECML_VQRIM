@@ -13,12 +13,6 @@ Paper link: https://arxiv.org/abs/2206.10801
 ![alt text](https://github.com/zhengchen3/ECML_VQRIM/files/9996693/label_flows.pdf)
 
 ## Setup
-If you are using Anaconda, you might want to use virtual environment.
-
-```bash
-conda create -n eeg python=3.7 -y
-conda activate eeg
-```
 
 You can install the required dependencies using pip.
 
