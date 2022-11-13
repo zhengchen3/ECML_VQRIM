@@ -10,8 +10,10 @@ Paper link: https://arxiv.org/abs/2206.10801
 
 ![alt text](https://github.com/zhengchen3/ECML_VQRIM/files/9996697/Ablation2.pdf)
 
-<p align="center">
 ![alt text](https://github.com/zhengchen3/ECML_VQRIM/files/9996693/label_flows.pdf)
+
+<p align="center">
+<img width="460" height="300" src="https://github.com/zhengchen3/ECML_VQRIM/files/9996693/label_flows.pdf">
 </p>
 
 
