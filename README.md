@@ -26,10 +26,9 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 
 If you find our work relevant to your research, please cite:
 
-    @inproceedings{VQRIMECML22,
+    @article{VQRIMECML22,
 	author  = {Zheng, Chen and Lingwei, Zhu and Ziwei, Yang and Takashi, Matsubara},
 	year    = {2022},
   	title   = {Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization},
-  	booktitle={Machine Learning and Knowledge Discovery in Databases, {ECML-PKDD}}, 
-  	pages   = {1-16},
+  	journal={arXiv preprint arxiv:2206.10801
 	}
