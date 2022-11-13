@@ -4,7 +4,7 @@ Implementation of Automated Cancer Subtyping via Vector Quantization Mutual Info
 
 
 
-# Citation
+## Citation
 
 @article{ho2020denoising,
     title={Denoising Diffusion Probabilistic Models},
