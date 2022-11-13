@@ -30,5 +30,5 @@ If you find our work relevant to your research, please cite:
 	author  = {Zheng, Chen and Lingwei, Zhu and Ziwei, Yang and Takashi, Matsubara},
 	year    = {2022},
   	title   = {Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization},
-  	journal={arXiv preprint arxiv:2206.10801
+  	journal = {arXiv preprint arxiv:2206.10801}
 	}
