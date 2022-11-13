@@ -1,4 +1,4 @@
-# ECML_VQRIM
+# ECML-PKDD_VQRIM
 
 _Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization_
 
