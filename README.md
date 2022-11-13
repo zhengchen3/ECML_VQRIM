@@ -12,7 +12,21 @@ Paper link: https://arxiv.org/abs/2206.10801
 
 ![alt text](https://github.com/zhengchen3/ECML_VQRIM/files/9996693/label_flows.pdf)
 
+## Setup
+If you are using Anaconda, you might want to use virtual environment.
 
+```bash
+conda create -n eeg python=3.7 -y
+conda activate eeg
+```
+
+You can install the required dependencies using pip.
+
+```bash
+pip install -r requirements.txt
+```
+
+If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
 
 ## Citation
 
