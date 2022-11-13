@@ -6,15 +6,20 @@ Zheng Chen, Lingwei Zhu, Ziwei Yang, and Takashi Matsubara
 
 Paper link: https://arxiv.org/abs/2206.10801
 
+[pca_brca_lgg.pdf](https://github.com/zhengchen3/ECML_VQRIM/files/9996692/pca_brca_lgg.pdf)
+
+[label_flows.pdf](https://github.com/zhengchen3/ECML_VQRIM/files/9996693/label_flows.pdf)
+
 
 
 ## Citation
 
-**cite** contains a Tensorflow implementation for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
+If you find our work relevant to your research, please cite:
 
-    @inproceedings{plummerCITE2018,
+    @inproceedings{VQRIMECML22,
 	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
-	Title = {Conditional Image-Text Embedding Networks},
-	Booktitle  = {The European Conference on Computer Vision (ECCV)},
-	Year = {2018}
-    }
+	year    = {2022},
+  	title   = {Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization},
+  	booktitle={Machine Learning and Knowledge Discovery in Databases, {ECML-PKDD}}, 
+  	pages   = {1-16},
+	}
